@@ -29,4 +29,4 @@ class Solution {
     	s1.checkPalindrom(name);
     	System.out.println("\n");
     }
-}
+}javac 

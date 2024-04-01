@@ -1,4 +1,4 @@
-class Print{
+class subseq/*class Print{
 public static void main(String[] args){
                // String str="DhanshriVitthalraoBaswade";
                 String str="Dhanshri@2022bit049";
@@ -44,7 +44,7 @@ public static void main(String[] args){
 		System.out.println("S1 is smaller");
 		}
 		System.out.println(s2.indexOf(s1));*/
-		String s1="shriVitthalrao";
+		/*String s1="shriVitthalrao";
 		String s2="shri";
 		s1=s1+"inSGGS"; 
 		System.out.println(s1);
@@ -53,4 +53,4 @@ public static void main(String[] args){
 			
 }
 }
-
+*/
